@@ -4,7 +4,7 @@ Figma demo
 ](https://www.figma.com/proto/Su1mmwFzvDJgEqmUf8zqcI/Untitledmaybeworks?type=design&node-id=201-826&t=xPVzPeQc2HBUW5qn-1&scaling=scale-down&page-id=0%3A1&mode=design)
 
 
-*PathFinder:**
+**PathFinder:**
 
 
 This repository is based on the [ShadeMap examples](https://github.com/ted-piotrowski/shademap-examples/tree/main).

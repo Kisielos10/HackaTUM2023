@@ -1,7 +1,7 @@
 # WetterMeister Examples
 [
 Figma demo
-]([url](https://www.figma.com/proto/Su1mmwFzvDJgEqmUf8zqcI/Untitledmaybeworks?type=design&node-id=201-826&t=xPVzPeQc2HBUW5qn-1&scaling=scale-down&page-id=0%3A1&mode=design))
+](https://www.figma.com/proto/Su1mmwFzvDJgEqmUf8zqcI/Untitledmaybeworks?type=design&node-id=201-826&t=xPVzPeQc2HBUW5qn-1&scaling=scale-down&page-id=0%3A1&mode=design)
 
 3DMap:
 Generate 3D Map
